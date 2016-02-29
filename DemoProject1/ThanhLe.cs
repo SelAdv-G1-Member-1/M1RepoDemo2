@@ -7,7 +7,7 @@ namespace DemoProject1
     public class ThanhLe
     {
         [TestMethod]
-        public void TestMethodaaa()
+        public void TestMethod2()
         {
             Console.WriteLine("Hello Thanh 2");
         }
@@ -19,9 +19,9 @@ namespace DemoProject1
         }
 
         [TestMethod]
-        public void TestMethod2()
+        public void TestMethod3()
         {
-            Console.WriteLine("Hello Thanh 2");
+            Console.WriteLine("Hello Thanh 3");
         }
     }
 }
