@@ -9,7 +9,13 @@ namespace DemoProject1
         [TestMethod]
         public void TestMethod1()
         {
-            Console.WriteLine("Hello");
+            Console.WriteLine("Hello Thanh 1");
+        }
+
+        [TestMethod]
+        public void TestMethod2()
+        {
+            Console.WriteLine("Hello Thanh 2");
         }
     }
 }
