@@ -7,7 +7,7 @@ namespace DemoProject1
     public class ThanhLe
     {
         [TestMethod]
-        public void TestMethod2_UpdatedByThanhLe1()
+        public void TestMethod2_ThanhLe2()
         {
             Console.WriteLine("Hello Thanh 1");
             Console.WriteLine("Welcome Thanh 2");
