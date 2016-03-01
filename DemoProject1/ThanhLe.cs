@@ -7,9 +7,11 @@ namespace DemoProject1
     public class ThanhLe
     {
         [TestMethod]
-        public void TestMethod2()
+        public void TestMethod2_ThanhLe2()
         {
-            Console.WriteLine("Hello Thanh 2");
+            Console.WriteLine("Welcome Thanh 2");
+
+            Console.WriteLine("Thanh 2 says Hello!");
         }
 
         [TestMethod]
