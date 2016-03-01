@@ -10,7 +10,6 @@ namespace DemoProject1
         public void TestMethod2_UpdatedByThanhLe1()
         {
             Console.WriteLine("Hello Thanh 1");
-
             Console.WriteLine("Welcome Thanh 2");
         }
 
